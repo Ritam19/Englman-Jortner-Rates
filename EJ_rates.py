@@ -10,7 +10,7 @@
 #                                                                                                    #
 #1-All the normal modes should be writing in "frequencies.py" file                                   #
 #                                                                                                    #
-#2-The electronic non-adiabatic coupling strength should be added in "ENCS.py" file                   #
+#2-The electronic non-adiabatic coupling strength should be added in "ENCS.py" file                  #
 #                                                                                                    #
 #3-Run the program by: python EJ_rates.py                                                            #
 #                                                                                                    #
